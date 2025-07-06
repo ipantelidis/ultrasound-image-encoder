@@ -35,7 +35,7 @@ pip install torch torchvision pandas numpy pillow tqdm
 
 ### 2. Prepare data
 
-Ensure that you have a .csv file containing all the following columns:
+Ensure that you have a `.csv` file containing all the following columns:
 
 - `frame_path`: path to the image file  
 - `patient_id`: patient identifier
